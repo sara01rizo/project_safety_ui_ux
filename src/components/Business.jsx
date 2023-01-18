@@ -22,13 +22,13 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        You do the business, <br className="sm:block hidden" /> we’ll handle
+        You do the business, <br className="sm:block hidden" /> we'll handle
         the money.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds
-        of credit cards on the market.
+        With the right safety ui ux, you can improve your financial life by
+        building life, earning rewards and saving more. But with hundreds
+        of options on the market.
       </p>
 
       <Button styles={`mt-10`} />
