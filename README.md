@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sara01rizo/lema-mern-data-model/blob/master/client/src/images/ui-ux-react.jpg?raw=true"/>
+  <img src="https://github.com/sara01rizo/project_safety_ui_ux/blob/master/src/images/ui-ux-react.jpg"/>
 </p>
 
 # Project safety ui/ux
@@ -14,7 +14,7 @@
 
 ---------
 <p align="center">
-  <img src="https://github.com/sara01rizo/lema-mern-data-model/blob/master/client/src/images/ui-ux-react-bk.jpg?raw=true"/>
+  <img src="https://github.com/sara01rizo/project_safety_ui_ux/blob/master/src/images/ui-ux-react-bk.jpg"/>
 </p>
 
 # Deploy
@@ -24,7 +24,7 @@
 ## Made in Berlin
 
 <p align="center">
-  <img src="https://github.com/sara01rizo/lema-mern-data-model/blob/master/client/src/images/ui-ux-react-foo.jpg?raw=true"/>
+  <img src="https://github.com/sara01rizo/project_safety_ui_ux/blob/master/src/images/ui-ux-react-foo.jpg"/>
 </p>
 
 
