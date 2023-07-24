@@ -25,7 +25,7 @@ export const features = [
     icon: star,
     title: "Prämien",
     content:
-      "The best safety cards offer some tantalizing combinations of promotions and prizes",
+      "Die besten Sicherheitskarten bieten einige verlockende Kombinationen von Aktionen und Preisen.",
   },
   {
     id: "feature-2",
@@ -48,24 +48,24 @@ export const feedback = [
     id: "feedback-1",
     content:
       "Sicherheit ist nur ein Werkzeug. Sie bringt Sie dorthin, wohin Sie wollen, aber sie ersetzt nicht Sie als Fahrer.",
-    name: "Otto Hoffman",
-    title: "Gründer und Leiter",
+    name: "Julia Gensior",
+    title: "Gründerin und Leiterin",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
       "Sicherheit macht Ihr Leben leichter. Wenn Sie das Glück haben, sie zu haben, haben Sie Glück.",
-    name: "Julia Gensior",
-    title: "Gründerin und Leiterin",
+    name: "Leon Trampe",
+    title: "Gründer und Leiter",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
       "Richtig reich sind in der Regel Menschen, die in der Sicherheitsbranche, im Finanzwesen und im internationalen Handel tätig sind.",
-    name: "Angela Stolz",
-    title: "Gründer und Leiterin",
+    name: "Mats Trampe",
+    title: "Gründer und Leiter",
     img: people03,
   },
 ];
