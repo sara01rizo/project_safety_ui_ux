@@ -14,12 +14,11 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Easily control your <br className="sm:block hidden" /> billing &
-        invoicing
+      Kontrollieren Sie ganz einfach Ihre <br className="sm:block hidden" /> Rechnungsstellung und Verrechnung.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-        Voluptatibus velit sapiente a corrupti aliquid excepturi incidunt 
+        Lorem Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Voluptatibus velit sapiente a corrupti aliquid excepturi incidunt
         placerat.
       </p>
 

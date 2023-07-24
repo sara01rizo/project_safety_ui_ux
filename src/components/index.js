@@ -8,10 +8,11 @@ import CTA from "./CTA";
 import Stats from "./Stats";
 import Testimonials from "./Testimonials";
 import Footer from "./Footer";
+import ArrowTop from "./ArrowTop";
 
 export {
-    Hero, 
-    Navbar, 
+    Hero,
+    Navbar,
     Stats,
     Business,
     Billing,
@@ -20,4 +21,5 @@ export {
     Clients,
     CTA,
     Footer,
+    ArrowTop,
 };

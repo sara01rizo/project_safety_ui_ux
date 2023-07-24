@@ -13,42 +13,42 @@ const Hero = () => {
               <span className="text-white">1 Month</span> Account
             </p>
           </div>
-  
+
           <div className="flex flex-row justify-between items-center w-full">
             <h1 className="flex-1 font-roboto font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]">
-              The Smart <br className="sm:block hidden" />{" "}
+              Die intelligente <br className="sm:block hidden" />{" "}
               <span className="text-gradient">Generation</span>{" "}
             </h1>
             <div className="ss:flex hidden md:mr-4 mr-0">
               <GetStarted />
             </div>
           </div>
-  
+
           <h1 className="font-roboto font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-            Payment Method.
+            Zahlungsmethode.
           </h1>
           <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-            Our amazing team of digital experts uses a methodology to identify the best and
-            most likely card that fit your needs. We examine annual percentage rates,
-            annual fees of all the Banks.
+          Unser fantastisches Team von Digitalexperten verwendet eine Methodik, um die beste und
+          die Ihren Bedürfnissen am ehesten entspricht. Wir untersuchen den effektiven Jahreszins,
+          Jahresgebühren aller Banken.
           </p>
         </div>
-  
+
         <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
           <img src={robot} alt="billing" className="w-[100%] h-[100%] relative z-[5]" />
-  
+
           {/* gradient start */}
           <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient" />
           <div className="absolute z-[1] w-[80%] h-[80%] rounded-full white__gradient bottom-40" />
           <div className="absolute z-[0] w-[50%] h-[50%] right-20 bottom-20 blue__gradient" />
           {/* gradient end */}
         </div>
-  
+
         <div className={`ss:hidden ${styles.flexCenter}`}>
           <GetStarted />
         </div>
       </section>
     );
   };
-  
+
   export default Hero;
