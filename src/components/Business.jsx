@@ -22,13 +22,10 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        You do the business, <br className="sm:block hidden" /> we'll handle
-        the money.
+      Sie machen das Geschäft, <br className="sm:block hidden" /> wir kümmern uns um das Geld.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right safety ui ux, you can improve your financial life by
-        building life, earning rewards and saving more. But with hundreds
-        of options on the market.
+      Mit der richtigen Sicherheitstechnik können Sie Ihr finanzielles Leben verbessern, indem Sie Leben aufbauen, Prämien verdienen und mehr sparen. Aber bei Hunderten von Optionen auf dem Markt.
       </p>
 
       <Button styles={`mt-10`} />

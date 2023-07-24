@@ -2,20 +2,20 @@ import { people01, people02, people03, facebook, instagram, linkedin, twitter, a
 
 export const navLinks = [
   {
-    id: "home",
-    title: "Home",
+    id: "startseite",
+    title: "Startseite",
   },
   {
     id: "features",
     title: "Features",
   },
   {
-    id: "product",
-    title: "Product",
+    id: "produkt",
+    title: "Produkt",
   },
   {
-    id: "clients",
-    title: "Clients",
+    id: "kunden",
+    title: "Kunden",
   },
 ];
 
@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Prämien",
     content:
       "The best safety cards offer some tantalizing combinations of promotions and prizes",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "100% Gesichert",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Wir ergreifen proaktive Maßnahmen, um sicherzustellen, dass Ihre Informationen und Transaktionen sicher sind.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Saldoüberweisung",
     content:
-      "A balance transfer safety card can save you a lot of money in interest charges.",
+      "Mit einer Sicherheitskarte für den Saldoübertrag können Sie eine Menge Geld an Zinsen sparen.",
   },
 ];
 
@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Safety is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+      "Sicherheit ist nur ein Werkzeug. Sie bringt Sie dorthin, wohin Sie wollen, aber sie ersetzt nicht Sie als Fahrer.",
+    name: "Otto Hoffman",
+    title: "Gründer und Leiter",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Safety makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "Sicherheit macht Ihr Leben leichter. Wenn Sie das Glück haben, sie zu haben, haben Sie Glück.",
+    name: "Julia Gensior",
+    title: "Gründerin und Leiterin",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the safety business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+      "Richtig reich sind in der Regel Menschen, die in der Sicherheitsbranche, im Finanzwesen und im internationalen Handel tätig sind.",
+    name: "Angela Stolz",
+    title: "Gründer und Leiterin",
     img: people03,
   },
 ];
@@ -73,60 +73,60 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
+    title: "Benutzer Aktiv",
     value: "3800+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
+    title: "Vertrauen in das Unternehmen",
     value: "230+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
+    title: "Transaktion",
     value: "$230M+",
   },
 ];
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "Nützliche Links",
     links: [
       {
-        name: "Content",
+        name: "Inhalt",
         link: "https://www.safety-ux-ui.com/content/",
       },
       {
-        name: "How it Works",
+        name: "So funktioniert es",
         link: "https://www.safety-ux-ui.com/how-it-works/",
       },
       {
-        name: "Create",
+        name: "Erstellen Sie",
         link: "https://www.safety-ux-ui.com/create/",
       },
       {
-        name: "Explore",
+        name: "Entdecken Sie",
         link: "https://www.safety-ux-ui.com/explore/",
       },
       {
-        name: "Terms & Services",
+        name: "Bedingungen & Dienstleistungen",
         link: "https://www.safety-ux-ui.com/terms-and-services/",
       },
     ],
   },
   {
-    title: "Community",
+    title: "Die Gemeinschaft",
     links: [
       {
-        name: "Help Center",
+        name: "Hilfe-Center",
         link: "https://www.safety-ux-ui.com/help-center/",
       },
       {
-        name: "Partners",
+        name: "Partner",
         link: "https://www.safety-ux-ui.com/partners/",
       },
       {
-        name: "Suggestions",
+        name: "Anregungen",
         link: "https://www.safety-ux-ui.com/suggestions/",
       },
       {
@@ -143,11 +143,11 @@ export const footerLinks = [
     title: "Partner",
     links: [
       {
-        name: "Our Partner",
+        name: "Unser Partner",
         link: "https://www.safety-ux-ui.com/our-partner/",
       },
       {
-        name: "Become a Partner",
+        name: "Werden Sie Partner",
         link: "https://www.safety-ux-ui.com/become-a-partner/",
       },
     ],
