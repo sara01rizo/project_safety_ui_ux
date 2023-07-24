@@ -9,8 +9,8 @@ const Hero = () => {
           <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
             <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
             <p className={`${styles.paragraph} ml-2`}>
-              <span className="text-white">30%</span> Discount For{" "}
-              <span className="text-white">1 Month</span> Account
+              <span className="text-white">30%</span> Rabatt für {" "}
+              <span className="text-white">1 Monat</span> Konto
             </p>
           </div>
 
@@ -24,7 +24,7 @@ const Hero = () => {
             </div>
           </div>
 
-          <h1 className="font-roboto font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
+          <h1 className="font-roboto font-semibold ss:text-[68px] text-[42px] text-white ss:leading-[100.8px] leading-[75px] w-full">
             Zahlungsmethode.
           </h1>
           <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
